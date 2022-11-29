@@ -1,3 +1,8 @@
+- 👋 Hi, I’m Shounak
+- 👀 I’m interested in designing data-driven solutions 
+- 🌱 I’m currently learning how to integrate data pipelines within banking systems and how to make sense of the data
+- 💞️ I’m looking to collaborate on all sorts of projects 
+- 📫 You know where to find me if you want to chat 😏
 
 
 <!---
